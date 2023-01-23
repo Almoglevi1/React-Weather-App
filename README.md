@@ -1,4 +1,4 @@
-# React-Weather-App
+# Weather-App
 - This app was developed using React.js while using OpenWeather API and GeoDB cities API. 
 - The user can select a city in any country and see the forecast for the coming week.
 #
